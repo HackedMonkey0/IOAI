@@ -1,6 +1,6 @@
-# Word embending /n
-Google colab: https://colab.research.google.com/drive/15FDEap-JeTrR9TFzo8qelEPV4nuq103j?usp=sharing /n
-/n
+# Word embending
+Google colab: https://colab.research.google.com/drive/15FDEap-JeTrR9TFzo8qelEPV4nuq103j?usp=sharing 
+
 # Image AI
 Ciafr 10 pytorch: https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 Talán segít resnet és CIFAR 10 cucc: https://github.com/kuangliu/pytorch-cifar?tab=readme-ov-file
