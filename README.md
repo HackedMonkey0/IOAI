@@ -12,6 +12,9 @@ Feri edition: https://colab.research.google.com/drive/1D5my8IArpngCBOXj2uPDtLiAl
 Dokumentáció: https://pytorch.org/tutorials/beginner/basics/intro.html 
 Colab: https://colab.research.google.com/drive/1_BzYUaGl1jc7Njzz2LRJbXmROi45R08
 
+# Mistral
+https://docs.mistral.ai/getting-started/models/
+
 # AI help
 option1: https://chat.openai.com/
 option2: https://gemini.google.com/app/
